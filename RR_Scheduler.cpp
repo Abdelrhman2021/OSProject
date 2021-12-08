@@ -4,6 +4,8 @@
 #include <queue> 
 #include<iomanip>
 #include<climits>
+#include <cstdlib>
+
 using namespace std;
 
 struct process_struct
@@ -158,5 +160,9 @@ int main()
   cout<<"\nAverage Response Time= "<<(float)sum_rt/n;    
   cout<<"\nThroughput= "<<n/(float)length_cycle;
   cout<<"\nCPU Utilization(Percentage)= " << cpu_utilization*100;
+  
+  system("pause");
+
+
   return 0;
 }
