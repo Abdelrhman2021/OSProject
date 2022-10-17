@@ -1,3 +1,3 @@
 # OSProject
 by :
-Abdelrhman Hatem, Ali El Mansoury, Abanoub Adel, Micheal
+Abdelrhman Hatem, Ali El Mansoury, Abanoub Adel, Micheal Samuel
